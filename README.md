@@ -1,6 +1,6 @@
 # Relationship-Extraction
 
-Jupyter notebook on my attempt to induce causal relationship from text
+Jupyter notebook on my attempt to induce causal relationship from works
 Inspired by the work of Judea Pearl and the article
 <i>Text and Causal Inference: A Review of Using Text to Remove Confounding from Causal Estimates</i>,
 Katherine A. Keith, David Jensen, Brendan O'Connor,
